@@ -1,0 +1,8 @@
+LỊCH TRỰC PTMHM TỔNG HỢP - PWA
+1. Đăng tải TOÀN BỘ nội dung thư mục này lên một website HTTPS (ví dụ GitHub Pages, Netlify).
+2. Trên iPhone: mở URL bằng Safari > Chia sẻ > Thêm vào Màn hình chính > Thêm.
+3. Trên Samsung: mở URL bằng Chrome > menu ⋮ > Cài đặt ứng dụng / Thêm vào màn hình chính.
+4. Mở ứng dụng một lần khi có Internet để trình duyệt lưu dữ liệu. Sau đó có thể dùng offline.
+5. Khi cập nhật lịch, thay index.html và thay đổi tên CACHE trong sw.js để điện thoại lấy dữ liệu mới.
+LƯU Ý: Mở index.html trực tiếp từ email hoặc file:// KHÔNG kích hoạt cài PWA và service worker.
+File này dựa trên bản Lich_truc_PTMHM_TONG_HOP_GOC.html, không tự sửa dữ liệu lịch.
